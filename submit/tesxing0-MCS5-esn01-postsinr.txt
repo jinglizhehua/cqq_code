@@ -1,0 +1,14 @@
+FloatMatrix(16, 1)
+
+22.5675
+
+FloatMatrix(16, 1)
+
+23.5675
+
+FloatMatrix(16, 1)
+
+26.5885
+
+
+
